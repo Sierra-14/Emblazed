@@ -1,36 +1,26 @@
-<!-- ЭТО ШАБЛОН ВАШЕГО PULL REQUEST. Текст между стрелками - это комментарии - они не будут видны в PR. -->
+<!-- Text between arrows is a comment. It will not be displayed on a page of your PR. -->
 
-## Описание PR
-<!-- Ниже опишите ваш Pull Request. Что он изменяет? На что еще это может повлиять? Постарайтесь описать все внесённые вами изменения! -->
+## Description
+<!-- Describe the changes in your Pull Request below. -->
 
-**Медиа**
-<!-- Если приемлемо, добавьте скриншоты для демонстрации вашего PR. Если ваш PR представляет собой визуальное изменение, добавьте
-скриншоты, иначе он может быть закрыт. -->
+**Media**
+<!-- Images and videos go there. Please add some if your PR contains visual changes, otherwise your PR may be closed. -->
 
-**Проверки**
-<!-- Выполнение всех следующих действий, если это приемлемо для вида изменений сильно ускорит разбор вашего PR -->
-- [ ] PR полностью завершён и мне не нужна помощь чтобы его закончить.
-- [ ] Я внимательно просмотрел все свои изменения и багов в них не нашёл.
-- [ ] Я запускал локальный сервер со своими изменениями и всё протестировал.
-- [ ] Я добавил скриншот/видео демонстрации PR в игре, **или** этот PR этого не требует.
 
-**Изменения**
+**Changelog**
 <!--
-Здесь вы можете написать список изменений, который будет автоматически добавлен в игру, когда ваш PR будет принят.
+Make players aware of new features and changes that could affect how they play the game by adding a Changelog entry.
 
-В журнал изменений следует помещать только то, что действительно важно игрокам.
+Changelog should be player-facing, so avoid putting technical details and changes that are too small here.
 
-В списке изменений тип значка не является часть предложения, поэтому явно указывайте - Добавлен, Удалён, Изменён.
-плохо: - add: Новый инструмент для инженеров
-хорошо: - add: Добавлен новый инструмент для инженеров
-
-Вы можете указать своё имя после символа :cl: именно оно будет отображаться в журнале изменений (иначе будет использоваться ваше имя на GitHub)
-Например: :cl: Ian
-
+You can put your nickname after :cl: so it will be displayed in in-game changelog, otherwise it will display your GitHub username instead.
 -->
 
+<!--
+Make sure to take this Changelog template out of the comment block in order for it to show up.
 :cl:
-- add: Добавлено веселье!
-- remove: Убрано веселье!
-- tweak: Изменено веселье!
-- fix: Исправлено веселье!
+- add: Added fun!
+- remove: Removed fun!
+- tweak: Changed fun!
+- fix: Fixed fun!
+-->
