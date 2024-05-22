@@ -1,5 +1,7 @@
 # Emblazed Station
 
+**Build is currently in WIP state. Majority of the code won't be published in this repository until all major features (in "Fundamentals" milestone) are implemented.**
+
 **EN** 🇺🇸  
 Space Station 14 fork based on **Corvax**.  
 Inspired by **Sierra** and **Chaotic Onyx** forks of **Baystation 12**.  
